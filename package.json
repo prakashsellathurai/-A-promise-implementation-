@@ -1,0 +1,26 @@
+{
+  "name": "promiseviatdd",
+  "version": "1.0.0",
+  "description": "promise implementation in js",
+  "main": "adapter.js",
+  "scripts": {
+    "test": "promises-aplus-tests adapter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashsellathurai/-A-promise-implementation-.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakashsellathurai/-A-promise-implementation-/issues"
+  },
+  "homepage": "https://github.com/prakashsellathurai/-A-promise-implementation-#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2",
+    "standard": "^10.0.3"
+  }
+}
